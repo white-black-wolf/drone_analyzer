@@ -54,7 +54,7 @@
 
 Для поиска дронов на фото мы использовали YOLO 8Nano обученную на пользовательском датасете. Для анализа типа дронов мы использовали собственную нейросеть обученную на нашем датасете.
 
-Как происходил процесс обучения можно посмотреть в папках [search](https://github.com/white-black-wolf/drone_analyzer/tree/main/search) и [classificator](https://github.com/white-black-wolf/drone_analyzer/tree/main/classificator)!
+Как происходил процесс обучения можно посмотреть в папках [search](https://github.com/white-black-wolf/drone_analyzer/tree/main/search) и [classificator](https://github.com/white-black-wolf/drone_analyzer/tree/main/classificator) или в [GoogleColab](https://colab.research.google.com/drive/1fkQ_5HRLXnu97qO1tW0uXrV3P9XLznz5?usp=sharing)!
 
 Для обучения YOLO 8Nano мы использовали пользоватьлиский [датасет](https://www.kaggle.com/datasets/dasmehdixtr/drone-dataset-uav). Там собрано около 1500 изображений с разметкой координат дронов.
 
