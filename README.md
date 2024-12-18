@@ -82,10 +82,10 @@
 
 <a id="developers"></a>
 ## 👨🏻‍💻Разработчики
-
-- [wbw](https://github.com/white-black-wolf)
-- [Vanish](https://github.com/vanish12345)
-- [Good-game-001 ](https://github.com/Good-game-001) 
+Команда: ГБОУ "ИТШ №777" (Кейс 1)
+- [Попов Кирилл](https://github.com/white-black-wolf)
+- [Харабажиу Иван](https://github.com/vanish12345)
+- [Сорокин Михаил](https://github.com/Good-game-001) 
 
 <a id="license"></a>
 ## 🏛️Лицензия
