@@ -83,6 +83,6 @@
 
 <a id="license"></a>
 ## 🏛️Лицензия
-Проект summa+ распространяеться под лицензией MIT.
+Проект drone_analyzer распространяеться под лицензией MIT.
 
- [Лицензия](https://github.com/white-black-wolf/sirius_AI/blob/main/LICENSE)
+ [Лицензия](https://github.com/white-black-wolf/drone_analyzer/blob/main/LICENSE)
