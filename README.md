@@ -57,7 +57,9 @@
 Итоговую модель и метод можно посмотреть в файле [main.ipynb](https://github.com/white-black-wolf/test_summa/blob/main/main.ipynb) и [main.py](https://github.com/white-black-wolf/test_summa/blob/main/main.py)!
 
 Для обучения YOLO 8Nano мы использовали пользоватьлиский [датасет](https://www.kaggle.com/datasets/dasmehdixtr/drone-dataset-uav). Там собрано около 1500 изображений с разметкой координат дронов.
+
 Для обучения нейросети классификации дронов мы сами собрали датасет из более 2500 изображений, отсортированных по классу. Мы классифицировали дронов по колличеству роторов.
+
 Мы выделили 5 классов:
  - bicopter
  - tricopter
