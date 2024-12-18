@@ -86,7 +86,8 @@
 ## 👨🏻‍💻Разработчики
 
 - [wbw](https://github.com/white-black-wolf)
-- [Vanish](https://github.com/vanish12345)   
+- [Vanish](https://github.com/vanish12345)
+- [Good-game-001 ](https://github.com/Good-game-001) 
 
 <a id="license"></a>
 ## 🏛️Лицензия
