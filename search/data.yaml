@@ -1,6 +1,0 @@
-path: C:/Users/vanoh/OneDrive/Desktop/SIRIUSAI         # Укажите путь к проекту
-train: images/                   # Путь к папке с обучающими изображениями
-val: images/                     # Путь к папке с валидационными изображениями
-
-names:
-  0: drone     
